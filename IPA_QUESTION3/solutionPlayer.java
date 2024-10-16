@@ -47,7 +47,11 @@ public class solutionPlayer {
         String skil=sc.nextLine();
         String leve=sc.nextLine();
         int res=findPointsForGivenSkill(pl, skil);
-        System.out.println(res);
+        if(res>0){
+            System.out.println(res);
+        }else{
+            System.out.println("The given Skill is not available");
+        }
         Player[] res1=getPlayerBasedOnLevel(pl,skil,leve);
         if(res1.length>0){
             for(int i=0;i<res1.length;i++){
