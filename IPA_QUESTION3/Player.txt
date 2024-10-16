@@ -3,7 +3,7 @@
  * 
  * playerId - int
  * skill - String
- * level - String
+ *level - String
  * points - int
  * 
  * Write getters, setters and parameterized constructor in the above mentioned
