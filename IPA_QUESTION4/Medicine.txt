@@ -1,9 +1,9 @@
 /*
  Create class Medicine with below attributes:
-   MedicineName - String
-   batch - String
-   disease - String
-   price - int
+ MedicineName - String
+ batch - String
+ disease - String
+ price - int
    
    Create class Solution and implement static method "getPriceByDisease" in the
    Solution class.
