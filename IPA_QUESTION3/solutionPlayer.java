@@ -53,7 +53,7 @@ public class solutionPlayer {
             System.out.println("The given Skill is not available");
         }
         Player[] res1=getPlayerBasedOnLevel(pl,skil,leve);
-        if(res1.length>0){
+        if(res1!=null){
             for(int i=0;i<res1.length;i++){
                 System.out.println(res1[i].getId());
             }
