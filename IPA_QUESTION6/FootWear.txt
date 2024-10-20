@@ -1,5 +1,5 @@
 /*
- * create a class Footwear which consists of the below attributes.
+ create a class Footwear which consists of the below attributes.
  * footwearId=int
  * footwearName=String
  * footwearType=String
