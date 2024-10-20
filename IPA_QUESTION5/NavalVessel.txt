@@ -1,5 +1,5 @@
 /*
- * Create a class NavalVessel with the below attributes:
+ Create a class NavalVessel with the below attributes:
  * vesselld – int
  * vesselName – String
  * noOfVoyagesPlanned – int
