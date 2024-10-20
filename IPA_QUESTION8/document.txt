@@ -1,5 +1,5 @@
 /*
- * Create class Document with below attributes
+ Create class Document with below attributes
  * id - int
  * title - String
  * folderName - String
