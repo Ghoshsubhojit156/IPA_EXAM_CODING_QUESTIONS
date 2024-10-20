@@ -1,6 +1,5 @@
 /*
  * Create a class Student with below attributes:
- * 
  * rollNo - int
  * name - String
  * subject - String
