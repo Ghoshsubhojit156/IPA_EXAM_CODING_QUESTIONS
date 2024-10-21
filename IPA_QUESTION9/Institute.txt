@@ -1,6 +1,5 @@
 /*
 Create a class Institution with below attributes:
-
 institutionId - int
 institutionName - String
 noOfStudentsPlaced - int
