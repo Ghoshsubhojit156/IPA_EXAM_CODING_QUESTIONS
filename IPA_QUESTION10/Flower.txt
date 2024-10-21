@@ -1,7 +1,6 @@
 
 /*
- * Create the class Flowers with below attribute:
- * 
+Create the class Flowers with below attribute:
  * flowerId-int;
  * flowerName-String;
  * price-int;
