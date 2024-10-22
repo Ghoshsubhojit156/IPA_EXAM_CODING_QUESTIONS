@@ -1,6 +1,5 @@
 /*
 Create a class HeadSets with below attributes:
-
 headsetName - String
 brand-String 
 price - int
