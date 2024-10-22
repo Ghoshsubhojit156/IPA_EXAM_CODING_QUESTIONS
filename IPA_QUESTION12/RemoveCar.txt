@@ -6,7 +6,6 @@ fuelType – String
 The above attributes should be private, write getters, setters and parameterized constructor as required.
 Create class RemoveCar with main method.
 Implement two static methods – RemoveAndRearrange in RemoveCar class.
-
 RemoveAndRearrange method: 
 This method will take int input parameter. The method will return the new array of Car object and remove that car whose 
 id is match with the input parameter. Remove the car details and return the array with continuous new ids.
